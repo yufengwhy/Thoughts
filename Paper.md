@@ -1,5 +1,5 @@
 
-$\mathbf{w}_{t+1}, \mathbf{v}_{t+1} $
+$ \mathbf{w}_{t+1},\mathbf{v}_{t+1} $
 
 
 $\left(\mathbf{w}_{t+1} \mathbf{v}_{t+1}\right)$
