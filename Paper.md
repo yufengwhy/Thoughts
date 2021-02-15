@@ -1,8 +1,8 @@
 
-$\left(\mathbf{w}_{t+1}\right)$
+$\left(\mathbf{v}_{t+1}\right)$
 
 
-$\left(\mathbf{w}_{t+1}, \mathbf{v}_{t+1}\right)$
+$\left(\mathbf{w}_{t+1},\mathbf{v}_{t+1}\right)$
 
 $\underset{\mathbf{w} \in \mathbb{R}^{d}, \mathbf{v} \in\{0,1\}^{n}}{\operatorname{argmin}}$
 
