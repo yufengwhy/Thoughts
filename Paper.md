@@ -12,4 +12,4 @@ $e^{i \pi} + 1 = 0$
 改进思路：  
 1.直接用到推荐系统：找到最inactive的样本，然后re-label，再训练模型，2.sample weight通过学习relu(sigmoid(s))来过滤掉接近零的，或者像self-paced learning论文中交替优化，3.分析我们sample weight的分布，0-1间那些分布多寡，4.数据集的特性见附录Frequency rank训练集上目标item频次继续排列的名次，Coverage 被目标item对齐的item在x中占比，Uncertainty条件熵，  
 
-$\left(\mathbf{w}_{t+1}, \mathbf{v}_{t+1}\right)=\underset{\mathbf{w} \in \mathbb{R}^{d}, \mathbf{v} \in\{0,1\}^{n}}{\operatorname{argmin}}\left(r(\mathbf{w})+\sum_{i=1}^{n} v_{i} f\left(\mathbf{x}_{i}, \mathbf{y}_{i} ; \mathbf{w}\right)-\frac{1}{K} \sum_{i=1}^{n} v_{i}\right)$
+$(\mathbf{w}_{t+1}, \mathbf{v}_{t+1}\right)=\underset{\mathbf{w} \in \mathbb{R}^{d}, \mathbf{v} \in\{0,1\}^{n}}{\operatorname{argmin}}\left(r(\mathbf{w})+\sum_{i=1}^{n} v_{i} f\left(\mathbf{x}_{i}, \mathbf{y}_{i} ; \mathbf{w}\right)-\frac{1}{K} \sum_{i=1}^{n} v_{i})$
