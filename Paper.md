@@ -1,4 +1,4 @@
-$\left(\mathbf{e}^{i \pi} + 1 = 0\right)$
+$\left(\mathbf{e}^{i \pi} + 1 = 0\right)\operatorname{argmin}$
 
 套路的论文千篇一律，有趣的论文万里挑一
 
