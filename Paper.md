@@ -5,7 +5,7 @@
       processEscapes: true
     }
   });
-</script>
+</script>  
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 套路的论文千篇一律，有趣的论文万里挑一
