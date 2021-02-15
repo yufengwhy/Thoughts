@@ -1,4 +1,4 @@
-![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
+$e^{i \pi} + 1 = 0$
 
 套路的论文千篇一律，有趣的论文万里挑一
 
