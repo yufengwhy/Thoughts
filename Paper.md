@@ -1,3 +1,13 @@
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 套路的论文千篇一律，有趣的论文万里挑一
 
 1. Data Rejuvenation: Exploiting Inactive Training Examples for Neural Machine Translation [pdf](https://arxiv.org/abs/2010.02552)  
