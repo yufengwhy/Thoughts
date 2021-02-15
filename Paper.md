@@ -1,4 +1,7 @@
-$\left(\mathbf{e}^{i \pi} + 1 = 0\right)\operatorname{argmin} \underset{a}b$
+
+$\left(\mathbf{w}_{t+1}\right)$
+
+
 $\left(\mathbf{w}_{t+1}, \mathbf{v}_{t+1}\right)$
 $\underset{\mathbf{w} \in \mathbb{R}^{d}, \mathbf{v} \in\{0,1\}^{n}}{\operatorname{argmin}}$
 $\left(r(\mathbf{w})+\sum_{i=1}^{n} v_{i} f\left(\mathbf{x}_{i}, \mathbf{y}_{i} ; \mathbf{w}\right)-\frac{1}{K} \sum_{i=1}^{n} v_{i}\right)$
